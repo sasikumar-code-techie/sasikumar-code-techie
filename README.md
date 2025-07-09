@@ -6,10 +6,10 @@
 </p>
 
 - 🔭 I’m currently working on **Python mini projects**
-- 🌱 I’m currently learning **Machine Learning & Django**
+- 🌱 I’m currently learning **Machine Learning & Web-Development**
 - 👯 I’m looking to collaborate on **Open-source Python projects**
 - 💬 Ask me about **Python, GitHub, and Automation**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **gujjusasikumar.here@gmail.com**
 - ⚡ Fun fact: *I love debugging more than coding*
 
 ---
@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasi-kumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar-code-techie&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -36,5 +36,5 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-  <a href="mailto:your-email@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
+  <a href="mailto:gujjusasikumar.here@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
