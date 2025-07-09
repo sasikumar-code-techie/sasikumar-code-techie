@@ -35,6 +35,6 @@
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/sasi-kumar-24a6802b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
   <a href="mailto:gujjusasikumar.here@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="gmail" height="20" width="20" /></a>
 </p>
